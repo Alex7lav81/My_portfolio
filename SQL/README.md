@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/83235640/137639717-092320bf-283e-4516-b25a-12ee181f0b57.png)
+
 [Схема базы данных](https://drive.google.com/file/d/1k7tJ-1hDaF4GIQLuGZTzw0F85i9y4Yd-/view?usp=sharing)
 
 ```
