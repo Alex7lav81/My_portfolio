@@ -1,5 +1,6 @@
+Format:! [Схема базы данных](https://drive.google.com/file/d/1k7tJ-1hDaF4GIQLuGZTzw0F85i9y4Yd-/view?usp=sharing)
+
 ```
-sql
 CREATE TABLE employees_roles (
 	id SERIAL PRIMARY KEY,
 	id_role int NOT NULL REFERENCES roles(id),
