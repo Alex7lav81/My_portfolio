@@ -106,4 +106,5 @@ ALTER TABLE materials
 ADD FOREIGN KEY (supplier_id) REFERENCES suppliers(id);
 
 ALTER TABLE employees ADD COLUMN surname VARCHAR(50);
-ALTER TABLE salary ADD COLUMN currency VARCHAR(7);```
+ALTER TABLE salary ADD COLUMN currency VARCHAR(7);
+```
