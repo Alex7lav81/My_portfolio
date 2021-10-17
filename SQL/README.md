@@ -1,5 +1,5 @@
-![GitHub](https://drive.google.com/file/d/1k7tJ-1hDaF4GIQLuGZTzw0F85i9y4Yd-/view?usp=sharing)
-Format:! [Схема базы данных](https://drive.google.com/file/d/1k7tJ-1hDaF4GIQLuGZTzw0F85i9y4Yd-/view?usp=sharing)
+![GitHub Logo](https://drive.google.com/file/d/1k7tJ-1hDaF4GIQLuGZTzw0F85i9y4Yd-/view?usp=sharing)
+Format: ! [Схема базы данных](https://drive.google.com/file/d/1k7tJ-1hDaF4GIQLuGZTzw0F85i9y4Yd-/view?usp=sharing)
 
 ```
 CREATE TABLE employees_roles (
