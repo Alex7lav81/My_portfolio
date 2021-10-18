@@ -1,5 +1,6 @@
 ![image](https://user-images.githubusercontent.com/83235640/137639717-092320bf-283e-4516-b25a-12ee181f0b57.png)
 
+![image](https://user-images.githubusercontent.com/83235640/137673224-635acf8a-9505-41e4-8340-d70227c0e19b.png)
 
 ```
 CREATE TABLE employees_roles (
@@ -47,8 +48,8 @@ VALUES (11, 5);
 SELECT *
 FROM roles_salary;
 
---ALTER TABLE roles_salary
---DROP CONSTRAINT id_role;
+ALTER TABLE roles_salary
+ADD FOREIGN KEY (id_role) REFERENCES roles(id);
 
 CREATE TABLE service (
 	id SERIAL PRIMARY KEY,
