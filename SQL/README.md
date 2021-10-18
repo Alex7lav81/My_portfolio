@@ -2,8 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/83235640/137673224-635acf8a-9505-41e4-8340-d70227c0e19b.png)
 
-```
-SQL
+```sql
+
 --Table Roles creating
 CREATE TABLE roles (
 	id SERIAL PRIMARY KEY,
