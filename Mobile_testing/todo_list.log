@@ -1,0 +1,287 @@
+E/ritika  ( 1162): AppIconVie - ********showBadge - BADGE=0,  To Do List,  com.android.todolist
+D/ApplicationPackageManager( 1008): getResourcesForApplication com.android.todolist got new pi = android.app.LoadedApk@f7e8945
+W/PackageManager( 1008): Failure retrieving resources for com.android.todolist: Resource ID #0x0
+I/Timeline( 1162): Timeline: Activity_launch_request id:com.android.todolist time:5940508
+E/BufferQueueCore(  171): [Starting com.android.todolist] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.MainActivity isFragment :false
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.MainActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.MainActivity
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{16dbfcaf u0 com.android.todolist/.MainActivity t155} time:5940864
+D/ApplicationPackageManager( 1008): getResourcesForApplication com.android.todolist got new pi = android.app.LoadedApk@11919bfd
+W/PackageManager( 1008): Failure retrieving resources for com.android.todolist: Resource ID #0x0
+D/ApplicationPackageManager( 1008): getResourcesForApplication com.android.todolist got new pi = android.app.LoadedApk@a58ea3e
+W/PackageManager( 1008): Failure retrieving resources for com.android.todolist: Resource ID #0x0
+D/ActivityManager(  731):  Launching com.android.todolist, updated priority
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{bd8a53e u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+V/WindowStateAnimator(  731): Finishing drawing window Window{bd8a53e u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{bd8a53e u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{16dbfcaf u0 com.android.todolist/.MainActivity t155} time:6217069
+V/WindowManager(  731): not Base app: Adding window Window{cade714 u0 d0 com.android.todolist/com.android.todolist.MainActivity} at 4 of 8
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{cade714 u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+V/WindowStateAnimator(  731): Finishing drawing window Window{cade714 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{cade714 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+V/ActivityThread(12472): updateVisibility : ActivityRecord{27e9ec5c token=android.os.BinderProxy@399be346 {com.android.todolist/com.android.todolist.MainActivity}} show : true
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{bd8a53e u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+V/WindowStateAnimator(  731): Finishing drawing window Window{bd8a53e u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{16dbfcaf u0 com.android.todolist/.MainActivity t155} time:6278261
+V/WindowStateAnimator(  731): Finishing drawing window Window{bd8a53e u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{bd8a53e u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{cade714 u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+V/WindowStateAnimator(  731): Finishing drawing window Window{cade714 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+V/WindowManager(  731): Adding window Window{356ec805 u0 d0 PopupWindow:3fba5984} at 5 of 9 (after Window{cade714 u0 d0 com.android.todolist/com.android.todolist.MainActivity})
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{bd8a53e u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+V/WindowManager(  731): not Base app: Adding window Window{16559380 u0 d0 com.android.todolist/com.android.todolist.MainActivity} at 4 of 8
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{16559380 u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+V/WindowStateAnimator(  731): Finishing drawing window Window{16559380 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{16559380 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{bd8a53e u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:6939981
+V/WindowManager(  731): addAppToken: AppWindowToken{9ab052d token=Token{1e360044 ActivityRecord{23282d57 u0 com.android.todolist/.ListActivity t155}}} to stack=1 task=155 at 1
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.ListActivity isFragment :false
+V/WindowManager(  731): Adding window Window{75fc729 u0 d0 com.android.todolist/com.android.todolist.ListActivity} at 4 of 9 (after Window{bd8a53e u0 d0 com.android.todolist/com.android.todolist.MainActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.ListActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{75fc729 u0 d0 com.android.todolist/com.android.todolist.ListActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.ListActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.ListActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{75fc729 u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{75fc729 u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{23282d57 u0 com.android.todolist/.ListActivity t155} time:6940484
+V/ActivityThread(12472): updateVisibility : ActivityRecord{27e9ec5c token=android.os.BinderProxy@399be346 {com.android.todolist/com.android.todolist.MainActivity}} show : false
+I/InjectionManager(12472): dispatchOptionsItemSelected :com.android.todolist.ListActivity
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:6942213
+V/WindowManager(  731): addAppToken: AppWindowToken{db91a47 token=Token{10ed3186 ActivityRecord{4583261 u0 com.android.todolist/.MainActivity t155}}} to stack=1 task=155 at 2
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.MainActivity isFragment :false
+V/WindowManager(  731): Adding window Window{3d84939d u0 d0 com.android.todolist/com.android.todolist.MainActivity} at 5 of 9 (after Window{75fc729 u0 d0 com.android.todolist/com.android.todolist.ListActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{3d84939d u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.MainActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.MainActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{3d84939d u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{3d84939d u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{4583261 u0 com.android.todolist/.MainActivity t155} time:6943160
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:6944342
+V/WindowManager(  731): addAppToken: AppWindowToken{28290b3f token=Token{3482eb5e ActivityRecord{1d1bcc99 u0 com.android.todolist/.ListActivity t155}}} to stack=1 task=155 at 2
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.ListActivity isFragment :false
+V/WindowManager(  731): Adding window Window{332d1c5b u0 d0 com.android.todolist/com.android.todolist.ListActivity} at 5 of 10 (after Window{3d84939d u0 d0 com.android.todolist/com.android.todolist.MainActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.ListActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{332d1c5b u0 d0 com.android.todolist/com.android.todolist.ListActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.ListActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.ListActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{332d1c5b u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{332d1c5b u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{1d1bcc99 u0 com.android.todolist/.ListActivity t155} time:6944795
+V/ActivityThread(12472): updateVisibility : ActivityRecord{f3ae401 token=android.os.BinderProxy@7121297 {com.android.todolist/com.android.todolist.MainActivity}} show : false
+I/NotificationService(  731): cancelToast pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@3cd69e0d
+I/InjectionManager(12472): dispatchOptionsItemSelected :com.android.todolist.ListActivity
+V/WindowManager(  731): Adding window Window{235c0e09 u0 d0 PopupWindow:133bcce2} at 6 of 11 (after Window{332d1c5b u0 d0 com.android.todolist/com.android.todolist.ListActivity})
+I/InjectionManager(12472): dispatchOptionsItemSelected :com.android.todolist.ListActivity
+V/WindowManager(  731): not Base app: Adding window Window{cae81c5 u0 d0 com.android.todolist/com.android.todolist.ListActivity} at 7 of 11
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.ListActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+V/WindowStateAnimator(  731): Finishing drawing window Window{cae81c5 u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{cae81c5 u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=HAS_DRAWN
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{332d1c5b u0 d0 com.android.todolist/com.android.todolist.ListActivity}
+I/InjectionManager(12472): dispatchOptionsItemSelected :com.android.todolist.ListActivity
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:6956055
+V/WindowManager(  731): addAppToken: AppWindowToken{a414827 token=Token{1ba3eae6 ActivityRecord{30fa7541 u0 com.android.todolist/.MainActivity t155}}} to stack=1 task=155 at 3
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.MainActivity isFragment :false
+V/WindowManager(  731): Adding window Window{4b8247d u0 d0 com.android.todolist/com.android.todolist.MainActivity} at 6 of 10 (after Window{332d1c5b u0 d0 com.android.todolist/com.android.todolist.ListActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{4b8247d u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.MainActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.MainActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{4b8247d u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{4b8247d u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{30fa7541 u0 com.android.todolist/.MainActivity t155} time:6956589
+I/InjectionManager(12472): dispatchOptionsItemSelected :com.android.todolist.MainActivity
+V/WindowManager(  731): Adding window Window{223af922 u0 d0 PopupWindow:5d45d00} at 6 of 10 (after Window{4b8247d u0 d0 com.android.todolist/com.android.todolist.MainActivity})
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{4b8247d u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:6964986
+V/WindowManager(  731): addAppToken: AppWindowToken{26168a7a token=Token{32a446a5 ActivityRecord{375dfc9c u0 com.android.todolist/.ListActivity t155}}} to stack=1 task=155 at 3
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.ListActivity isFragment :false
+V/WindowManager(  731): Adding window Window{5f34334 u0 d0 com.android.todolist/com.android.todolist.ListActivity} at 6 of 11 (after Window{4b8247d u0 d0 com.android.todolist/com.android.todolist.MainActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.ListActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{5f34334 u0 d0 com.android.todolist/com.android.todolist.ListActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.ListActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.ListActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{5f34334 u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{5f34334 u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{375dfc9c u0 com.android.todolist/.ListActivity t155} time:6965470
+V/ActivityThread(12472): updateVisibility : ActivityRecord{347e1313 token=android.os.BinderProxy@396e96d6 {com.android.todolist/com.android.todolist.MainActivity}} show : false
+I/NotificationService(  731): cancelToast pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@151b5ea0
+I/InjectionManager(12472): dispatchOptionsItemSelected :com.android.todolist.ListActivity
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:6966558
+V/WindowManager(  731): addAppToken: AppWindowToken{2a6d2315 token=Token{8e7c4cc ActivityRecord{20fb8eff u0 com.android.todolist/.MainActivity t155}}} to stack=1 task=155 at 4
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.MainActivity isFragment :false
+V/WindowManager(  731): Adding window Window{3f041c1b u0 d0 com.android.todolist/com.android.todolist.MainActivity} at 7 of 12 (after Window{5f34334 u0 d0 com.android.todolist/com.android.todolist.ListActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{3f041c1b u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.MainActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.MainActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{3f041c1b u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{3f041c1b u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{20fb8eff u0 com.android.todolist/.MainActivity t155} time:6967111
+V/ActivityThread(12472): updateVisibility : ActivityRecord{ca4fd71 token=android.os.BinderProxy@883a5e6 {com.android.todolist/com.android.todolist.MainActivity}} show : true
+V/WindowStateAnimator(  731): Finishing drawing window Window{3f041c1b u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{3f041c1b u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:7247958
+V/WindowManager(  731): addAppToken: AppWindowToken{1c184c52 token=Token{35f08dd ActivityRecord{2bce04b4 u0 com.android.todolist/.ListActivity t155}}} to stack=1 task=155 at 4
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.ListActivity isFragment :false
+V/WindowManager(  731): Adding window Window{7cadb9e u0 d0 com.android.todolist/com.android.todolist.ListActivity} at 7 of 12 (after Window{3f041c1b u0 d0 com.android.todolist/com.android.todolist.MainActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.ListActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{7cadb9e u0 d0 com.android.todolist/com.android.todolist.ListActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.ListActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.ListActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{7cadb9e u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{7cadb9e u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{2bce04b4 u0 com.android.todolist/.ListActivity t155} time:7248422
+V/ActivityThread(12472): updateVisibility : ActivityRecord{ca4fd71 token=android.os.BinderProxy@883a5e6 {com.android.todolist/com.android.todolist.MainActivity}} show : false
+I/NotificationService(  731): cancelToast pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@3cd96b38
+I/InjectionManager(12472): dispatchOptionsItemSelected :com.android.todolist.ListActivity
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:7268503
+V/WindowManager(  731): addAppToken: AppWindowToken{36fec37b token=Token{2a4faf0a ActivityRecord{1dcfe375 u0 com.android.todolist/.MainActivity t155}}} to stack=1 task=155 at 5
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.MainActivity isFragment :false
+V/WindowManager(  731): Adding window Window{dc841f1 u0 d0 com.android.todolist/com.android.todolist.MainActivity} at 8 of 12 (after Window{7cadb9e u0 d0 com.android.todolist/com.android.todolist.ListActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{dc841f1 u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.MainActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.MainActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{dc841f1 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{dc841f1 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{1dcfe375 u0 com.android.todolist/.MainActivity t155} time:7269087
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:7288318
+V/WindowManager(  731): addAppToken: AppWindowToken{22bd25ae token=Token{116c3e29 ActivityRecord{2dccfb0 u0 com.android.todolist/.ListActivity t155}}} to stack=1 task=155 at 5
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.ListActivity isFragment :false
+V/WindowManager(  731): Adding window Window{20b9eeba u0 d0 com.android.todolist/com.android.todolist.ListActivity} at 8 of 13 (after Window{dc841f1 u0 d0 com.android.todolist/com.android.todolist.MainActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.ListActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{20b9eeba u0 d0 com.android.todolist/com.android.todolist.ListActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.ListActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.ListActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{20b9eeba u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{20b9eeba u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{2dccfb0 u0 com.android.todolist/.ListActivity t155} time:7288807
+V/ActivityThread(12472): updateVisibility : ActivityRecord{2d3ded05 token=android.os.BinderProxy@2668f29c {com.android.todolist/com.android.todolist.MainActivity}} show : false
+V/ActivityThread(12472): updateVisibility : ActivityRecord{2a014f8b token=android.os.BinderProxy@325ce19e {com.android.todolist/com.android.todolist.ListActivity}} show : true
+V/WindowStateAnimator(  731): Finishing drawing window Window{20b9eeba u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=HAS_DRAWN
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{20b9eeba u0 d0 com.android.todolist/com.android.todolist.ListActivity}
+I/InjectionManager(12472): dispatchOptionsItemSelected :com.android.todolist.ListActivity
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:7451832
+V/WindowManager(  731): addAppToken: AppWindowToken{bd192e2 token=Token{94e0fad ActivityRecord{3aaca4c4 u0 com.android.todolist/.MainActivity t155}}} to stack=1 task=155 at 6
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.MainActivity isFragment :false
+V/WindowManager(  731): Adding window Window{36314930 u0 d0 com.android.todolist/com.android.todolist.MainActivity} at 9 of 13 (after Window{20b9eeba u0 d0 com.android.todolist/com.android.todolist.ListActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{36314930 u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.MainActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.MainActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{36314930 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{36314930 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{3aaca4c4 u0 com.android.todolist/.MainActivity t155} time:7452383
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:7453094
+V/WindowManager(  731): addAppToken: AppWindowToken{3f4e60eb token=Token{2d2e9c3a ActivityRecord{2b2e8765 u0 com.android.todolist/.ListActivity t155}}} to stack=1 task=155 at 6
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.ListActivity isFragment :false
+V/WindowManager(  731): Adding window Window{333f3e1d u0 d0 com.android.todolist/com.android.todolist.ListActivity} at 9 of 14 (after Window{36314930 u0 d0 com.android.todolist/com.android.todolist.MainActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.ListActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{333f3e1d u0 d0 com.android.todolist/com.android.todolist.ListActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.ListActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.ListActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{333f3e1d u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{333f3e1d u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=HAS_DRAWN
+I/NotificationService(  731): cancelToast pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@2c840263
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{2b2e8765 u0 com.android.todolist/.ListActivity t155} time:7453606
+V/ActivityThread(12472): updateVisibility : ActivityRecord{21fe7c5a token=android.os.BinderProxy@31fddbca {com.android.todolist/com.android.todolist.MainActivity}} show : false
+I/InjectionManager(12472): dispatchOptionsItemSelected :com.android.todolist.ListActivity
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:7479738
+V/WindowManager(  731): addAppToken: AppWindowToken{2b0e008c token=Token{20aa61bf ActivityRecord{3c718bde u0 com.android.todolist/.MainActivity t155}}} to stack=1 task=155 at 7
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.MainActivity isFragment :false
+V/WindowManager(  731): Adding window Window{198687ea u0 d0 com.android.todolist/com.android.todolist.MainActivity} at 10 of 14 (after Window{333f3e1d u0 d0 com.android.todolist/com.android.todolist.ListActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{198687ea u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.MainActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.MainActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{198687ea u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{198687ea u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{3c718bde u0 com.android.todolist/.MainActivity t155} time:7480301
+V/ActivityThread(12472): updateVisibility : ActivityRecord{11b09306 token=android.os.BinderProxy@3021b517 {com.android.todolist/com.android.todolist.MainActivity}} show : true
+E/ritika  ( 1162): AppIconVie - ********showBadge - BADGE=0,  To Do List,  com.android.todolist
+E/ritika  ( 1162): AppIconVie - ********showBadge - BADGE=0,  To Do List,  com.android.todolist
+V/WindowStateAnimator(  731): Finishing drawing window Window{198687ea u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{198687ea u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:7817191
+V/WindowManager(  731): addAppToken: AppWindowToken{264be376 token=Token{167bb611 ActivityRecord{bb11638 u0 com.android.todolist/.ListActivity t155}}} to stack=1 task=155 at 7
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.ListActivity isFragment :false
+V/WindowManager(  731): Adding window Window{100ac102 u0 d0 com.android.todolist/com.android.todolist.ListActivity} at 10 of 15 (after Window{198687ea u0 d0 com.android.todolist/com.android.todolist.MainActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.ListActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{100ac102 u0 d0 com.android.todolist/com.android.todolist.ListActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.ListActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.ListActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{100ac102 u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{100ac102 u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{bb11638 u0 com.android.todolist/.ListActivity t155} time:7817840
+V/ActivityThread(12472): updateVisibility : ActivityRecord{11b09306 token=android.os.BinderProxy@3021b517 {com.android.todolist/com.android.todolist.MainActivity}} show : false
+I/NotificationService(  731): cancelToast pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@3521626
+I/InjectionManager(12472): dispatchOptionsItemSelected :com.android.todolist.ListActivity
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:7822498
+V/WindowManager(  731): addAppToken: AppWindowToken{4341098 token=Token{3e15ba7b ActivityRecord{a1c220a u0 com.android.todolist/.MainActivity t155}}} to stack=1 task=155 at 8
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.MainActivity isFragment :false
+V/WindowManager(  731): Adding window Window{f6254d6 u0 d0 com.android.todolist/com.android.todolist.MainActivity} at 11 of 15 (after Window{100ac102 u0 d0 com.android.todolist/com.android.todolist.ListActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{f6254d6 u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.MainActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.MainActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{f6254d6 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{f6254d6 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{a1c220a u0 com.android.todolist/.MainActivity t155} time:7823082
+V/ActivityThread(12472): updateVisibility : ActivityRecord{316f6b19 token=android.os.BinderProxy@18730c6e {com.android.todolist/com.android.todolist.MainActivity}} show : true
+V/WindowStateAnimator(  731): Finishing drawing window Window{f6254d6 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{f6254d6 u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:8044533
+V/WindowManager(  731): addAppToken: AppWindowToken{3a56a0e4 token=Token{31a6c77 ActivityRecord{3b74ae76 u0 com.android.todolist/.ListActivity t155}}} to stack=1 task=155 at 8
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.ListActivity isFragment :false
+V/WindowManager(  731): Adding window Window{2d4ee750 u0 d0 com.android.todolist/com.android.todolist.ListActivity} at 11 of 16 (after Window{f6254d6 u0 d0 com.android.todolist/com.android.todolist.MainActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.ListActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{2d4ee750 u0 d0 com.android.todolist/com.android.todolist.ListActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.ListActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.ListActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{2d4ee750 u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{2d4ee750 u0 d0 com.android.todolist/com.android.todolist.ListActivity}: mDrawState=HAS_DRAWN
+V/ActivityThread(12472): updateVisibility : ActivityRecord{316f6b19 token=android.os.BinderProxy@18730c6e {com.android.todolist/com.android.todolist.MainActivity}} show : false
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{3b74ae76 u0 com.android.todolist/.ListActivity t155} time:8045039
+I/NotificationService(  731): cancelToast pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@1d3a495a
+I/InjectionManager(12472): dispatchOptionsItemSelected :com.android.todolist.ListActivity
+I/Timeline(12472): Timeline: Activity_launch_request id:com.android.todolist time:8050098
+V/WindowManager(  731): addAppToken: AppWindowToken{1c83aefe token=Token{379cdab9 ActivityRecord{37d2c480 u0 com.android.todolist/.MainActivity t155}}} to stack=1 task=155 at 9
+W/ResourcesManager(12472): getTopLevelResources: /data/app/com.android.todolist-1/base.apk / 1.0 running in com.android.todolist rsrc of package com.android.todolist
+I/InjectionManager(12472): dispatchOnViewCreated > Target : com.android.todolist.MainActivity isFragment :false
+V/WindowManager(  731): Adding window Window{35dfa8ac u0 d0 com.android.todolist/com.android.todolist.MainActivity} at 12 of 16 (after Window{2d4ee750 u0 d0 com.android.todolist/com.android.todolist.ListActivity})
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{35dfa8ac u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+I/InjectionManager(12472): dispatchCreateOptionsMenu :com.android.todolist.MainActivity
+I/InjectionManager(12472): dispatchPrepareOptionsMenu :com.android.todolist.MainActivity
+V/WindowStateAnimator(  731): Finishing drawing window Window{35dfa8ac u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{35dfa8ac u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+I/Timeline(  731): Timeline: Activity_windows_visible id: ActivityRecord{37d2c480 u0 com.android.todolist/.MainActivity t155} time:8050630
+V/WindowManager(  731): not Base app: Adding window Window{39227f1 u0 d0 com.android.todolist/com.android.todolist.MainActivity} at 12 of 16
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{39227f1 u0 d0 com.android.todolist/com.android.todolist.MainActivity}
+E/BufferQueueCore(  171): [com.android.todolist/com.android.todolist.MainActivity] setDefaultMaxBufferCount: setting count to 3, previous is 2 
+V/WindowStateAnimator(  731): Finishing drawing window Window{39227f1 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=DRAW_PENDING
+V/WindowStateAnimator(  731): Finishing drawing window Window{39227f1 u0 d0 com.android.todolist/com.android.todolist.MainActivity}: mDrawState=HAS_DRAWN
+D/StatusBarManagerService(  731): manageDisableList userId=0 what=0x0 pkg=Window{35dfa8ac u0 d0 com.android.todolist/com.android.todolist.MainActivity}
