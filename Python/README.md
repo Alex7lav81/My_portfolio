@@ -1,6 +1,7 @@
 ## I like programming))
 
 > Letter Counter
+
 ``` Python
 text = input()
 dict = {}
@@ -10,7 +11,9 @@ for i in text:
         dict[i] += 1
     else:
         dict[i] = count
-print(dict)  ```
+print(dict)  
+```
+
 
 > Задача       
 > Процедурный вид
